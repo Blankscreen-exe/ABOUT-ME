@@ -2,7 +2,7 @@
 
 I'm a young **Computer Scientist** who *just* [^1] graduated from **University of Karachi**. My core interests are **Machine Learning**, **AI** and **Data Science**. Although I do already have academic level of skills for my *said interests*, I am still studying more about their practical approaches from IBM, Harvard, Oracle, Huawei and other online portals.
 
-My **key technical skills** are as follows:
+My **key technical skills** (which are not limited to) are as follows:
 1. *Programming Languages*
 : Python, Java, Javascript, R, Lua
 2. *Softwares & other skills* <!-- will add python libraries -->
